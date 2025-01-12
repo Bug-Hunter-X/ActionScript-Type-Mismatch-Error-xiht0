@@ -1,0 +1,1 @@
+This repository demonstrates a common ActionScript error: type mismatch. The `myFunction` expects a String followed by an int. Incorrect parameter order or types leads to a runtime error. The solution shows how to correct the parameter order and type to avoid the error.
